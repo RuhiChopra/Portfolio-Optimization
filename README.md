@@ -4,7 +4,7 @@
 This project is a practical implementation of portfolio optimization techniques. The project involves applying various optimization methods to real-world financial data from the S&P 500 market, focusing on minimizing risk while meeting certain return expectations.
 
 ## Project Structure
-- **Dataset**: The project uses stock price data for 471 stocks from the S&P 500 market, spanning from 2013 to 2018. The data is split into training (`train.csv`) and testing (`test.csv`) datasets.
+- **Dataset**: The project uses stock price data for 471 stocks from the S&P 500 market. The data is split into training (`train.csv`) and testing (`test.csv`) datasets.
 - **Jupyter Notebook**: The main code for the project is provided in the `ftec2101_project_2021.ipynb` notebook. This notebook contains code to perform the optimization tasks outlined in the project specification.
 - **Helper Functions**: The `reusablefunc.jl` file includes functions that simplify various tasks, such as calculating the Sharpe ratio and handling transaction costs.
 
